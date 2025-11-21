@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistem Deteksi WSSV</title>
+    <style>
+        body { font-family: 'Segoe UI', Roboto, sans-serif; background-color: #f0f2f5; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+        .container { background: white; padding: 40px; border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.1); text-align: center; max-width: 600px; width: 100%; }
+        h1 { color: #1c2e51; margin-bottom: 15px; }
+        p { color: #5a6a85; margin-bottom: 30px; }
+        .upload-btn { background-color: #007bff; color: white; padding: 15px 30px; border-radius: 8px; cursor: pointer; font-size: 18px; font-weight: 500; border: none; transition: background-color 0.3s; }
+        .upload-btn:hover { background-color: #0056b3; }
+        #file-list { margin-top: 20px; text-align: left; color: #333; }
+        #toast {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #333;
+    color: white;
+    padding: 16px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    z-index: 1000;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+#toast.show {
+    display: block;
+    opacity: 1;
+}
+    </style>
+</head>
+<div id="toast" style="display:none;"></div>
+<body>
+    <div class="container">
+        <h1>Sistem Deteksi Penyakit Udang WSSV</h1>
+        <p>Unggah satu atau beberapa gambar udang untuk dianalisis.</p>
+        
+        <form action="{{ url_for('deteksi') }}" method="post" enctype="multipart/form-data" id="uploadForm">
+    <input type="file" name="files[]" id="fileInput" accept="image/*" multiple style="display: none;">
+
+    <button type="button" class="upload-btn" onclick="document.getElementById('fileInput').click();">Pilih Gambar</button>
+
+    <div id="file-list"></div>
+
+    <div style="display: flex; justify-content: center; gap: 20px; margin-top: 30px;">
+    <button type="button" id="cancelBtn" class="upload-btn" style="background-color: #dc3545; display: none;">Batalkan</button>
+    <button type="submit" id="submitBtn" class="upload-btn" style="display: none;">Mulai Deteksi</button>
+</div>
+</form>
+    </div>
+
+    <script>
+const fileInput = document.getElementById('fileInput');
+const fileListDiv = document.getElementById('file-list');
+const submitBtn = document.getElementById('submitBtn');
+const cancelBtn = document.getElementById('cancelBtn');
+const toast = document.getElementById('toast');
+
+function showToast(message) {
+    toast.textContent = message;
+    toast.classList.add('show');
+
+    setTimeout(() => {
+        toast.classList.remove('show');
+        setTimeout(() => {
+            toast.style.display = 'none';
+        }, 500);
+    }, 2500); // tampil selama 2.5 detik
+
+    toast.style.display = 'block';
+}
+
+fileInput.addEventListener('change', function () {
+    fileListDiv.innerHTML = '';
+
+    if (this.files.length > 0) {
+        for (const file of this.files) {
+            const wrapper = document.createElement('div');
+            wrapper.style.margin = '20px auto';
+            wrapper.style.textAlign = 'center';
+
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const img = document.createElement('img');
+                img.src = e.target.result;
+                img.style.maxWidth = '100%';
+                img.style.maxHeight = '300px';
+                img.style.borderRadius = '10px';
+                img.style.boxShadow = '0 4px 8px rgba(0,0,0,0.1)';
+                img.style.display = 'block';
+                img.style.margin = '0 auto';
+
+                wrapper.appendChild(img);
+            }
+
+            reader.readAsDataURL(file);
+            fileListDiv.appendChild(wrapper);
+        }
+
+        submitBtn.style.display = 'inline-block';
+        cancelBtn.style.display = 'inline-block';
+
+        showToast(`${this.files.length} gambar berhasil ditambahkan.`);
+    } else {
+        fileListDiv.innerHTML = '';
+        submitBtn.style.display = 'none';
+        cancelBtn.style.display = 'none';
+    }
+});
+
+cancelBtn.addEventListener('click', function () {
+    fileInput.value = '';
+    fileListDiv.innerHTML = '';
+    submitBtn.style.display = 'none';
+    cancelBtn.style.display = 'none';
+
+    showToast("Unggahan gambar dibatalkan.");
+});
+</script>
+</body>
+</html>
