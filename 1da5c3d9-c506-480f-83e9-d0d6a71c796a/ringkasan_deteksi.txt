@@ -1,0 +1,91 @@
+--- Hasil untuk: db5835d6-5b0f872ae49519d47e8b4567_jpg.rf.324f729dd25bbd4b90fa9ae147ce128e.jpg ---
+Objek: WSSV, Kepercayaan: 99.4%
+Objek: WSSV, Kepercayaan: 99.2%
+Objek: WSSV, Kepercayaan: 97.4%
+
+--- Hasil untuk: Diseased-shrimp_jpg.rf.ac59d426a703b5f723d35ca032a103e7.jpg ---
+Objek: WSSV, Kepercayaan: 99.6%
+Objek: WSSV, Kepercayaan: 98.7%
+Objek: WSSV, Kepercayaan: 97.9%
+Objek: WSSV, Kepercayaan: 94.6%
+
+--- Hasil untuk: download-3-_jpg.rf.d6cba9e1174729e5ee0aa833ee5dd582.jpg ---
+Objek: WSSV, Kepercayaan: 99.4%
+
+--- Hasil untuk: download-4-_jpg.rf.998260c40cc55453b98edcdc2a26b6bf.jpg ---
+Objek: WSSV, Kepercayaan: 77.4%
+
+--- Hasil untuk: download-5-_jpg.rf.097918aabbde45831a6aa35cab8eb806.jpg ---
+Objek: WSSV, Kepercayaan: 99.6%
+Objek: WSSV, Kepercayaan: 98.9%
+Objek: WSSV, Kepercayaan: 60.0%
+
+--- Hasil untuk: download-6-_jpg.rf.1c69fe936b3f956e3be851be3c0f9a51.jpg ---
+Objek: WSSV, Kepercayaan: 99.9%
+
+--- Hasil untuk: download-7-_jpg.rf.c18c587855af348acdd207ad75c4c044.jpg ---
+Objek: WSSV, Kepercayaan: 99.5%
+
+--- Hasil untuk: download-8-_jpg.rf.8fe9b5969b2101bd8651d89a9ade34a0.jpg ---
+Objek: WSSV, Kepercayaan: 99.5%
+
+--- Hasil untuk: download-9-_jpg.rf.048d8787a0c8fe2884f1734e25276cb3.jpg ---
+Objek: WSSV, Kepercayaan: 98.4%
+
+--- Hasil untuk: download-10-_jpg.rf.a3c2a0708b8f21dc1ec3c5da2586149b.jpg ---
+Objek: WSSV, Kepercayaan: 99.5%
+Objek: WSSV, Kepercayaan: 99.0%
+
+--- Hasil untuk: download-12-_jpg.rf.d1192aacc59feb8219f525aff249249b.jpg ---
+Objek: WSSV, Kepercayaan: 99.4%
+Objek: WSSV, Kepercayaan: 95.8%
+Objek: WSSV, Kepercayaan: 94.8%
+Objek: WSSV, Kepercayaan: 64.6%
+
+--- Hasil untuk: download-13-_jpg.rf.eda6fc4107c9ad11aa78b797f92b586a.jpg ---
+Objek: WSSV, Kepercayaan: 99.7%
+
+--- Hasil untuk: WhitespotOutbreakShrimpWithSpots_jpg.rf.344bad774872214a25ac5c0883b3db77.jpg ---
+Objek: WSSV, Kepercayaan: 99.6%
+Objek: WSSV, Kepercayaan: 99.5%
+
+--- Hasil untuk: wssv-3_jpg.rf.e264415c86cf59dd9e935b3458ec1e2a.jpg ---
+Objek: WSSV, Kepercayaan: 99.5%
+Objek: WSSV, Kepercayaan: 82.4%
+Objek: WSSV, Kepercayaan: 54.2%
+
+--- Hasil untuk: wssv-4_jpg.rf.738546c9c91d8a4638261d9965c560b8.jpg ---
+Objek: HEALTHY, Kepercayaan: 94.0%
+Objek: HEALTHY, Kepercayaan: 71.2%
+Objek: HEALTHY, Kepercayaan: 56.7%
+
+--- Hasil untuk: wssv-6_jpg.rf.69d549d4b61f9df1758df6988b58d604.jpg ---
+Objek: HEALTHY, Kepercayaan: 97.7%
+Objek: HEALTHY, Kepercayaan: 55.2%
+
+--- Hasil untuk: wssv-7_jpg.rf.21c6f59321b014e5202b2953a0d74fda.jpg ---
+Objek: HEALTHY, Kepercayaan: 87.1%
+Objek: HEALTHY, Kepercayaan: 85.3%
+Objek: HEALTHY, Kepercayaan: 78.6%
+
+--- Hasil untuk: wssv-8_jpg.rf.c5535a6037136aca27714091e1f0ef41.jpg ---
+Objek: HEALTHY, Kepercayaan: 96.9%
+
+--- Hasil untuk: wssv-11_jpg.rf.90eae83d8fd6e73844a299425906b03c.jpg ---
+Objek: WSSV, Kepercayaan: 97.2%
+
+--- Hasil untuk: wssv-12_jpg.rf.901d7f7760dbf76fd8f3e9a1e0cf8c58.jpg ---
+Objek: WSSV, Kepercayaan: 99.8%
+
+--- Hasil untuk: wssv-17_jpg.rf.d9df90be02b816c65c98f67ae3d028e7.jpg ---
+Objek: WSSV, Kepercayaan: 99.6%
+Objek: WSSV, Kepercayaan: 99.4%
+
+--- Hasil untuk: wssv-18_jpg.rf.de36e0dd1a347dee0b143f57ebf7e410.jpg ---
+Objek: WSSV, Kepercayaan: 98.9%
+Objek: WSSV, Kepercayaan: 98.5%
+
+--- Hasil untuk: wssv-19_jpg.rf.afb0571dd168a798520ad39e7841c220.jpg ---
+Objek: WSSV, Kepercayaan: 99.0%
+Objek: WSSV, Kepercayaan: 98.9%
+

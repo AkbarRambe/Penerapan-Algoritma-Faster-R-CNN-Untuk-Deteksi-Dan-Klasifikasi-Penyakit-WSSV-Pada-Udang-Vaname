@@ -1,0 +1,11 @@
+--- Hasil untuk: WSSV_by_CPP.jpg ---
+Objek: HEALTHY, Kepercayaan: 99.1%
+Objek: WSSV, Kepercayaan: 70.6%
+Objek: HEALTHY, Kepercayaan: 66.1%
+Objek: HEALTHY, Kepercayaan: 62.2%
+
+--- Hasil untuk: WSSV.JPG ---
+Objek: WSSV, Kepercayaan: 86.5%
+Objek: WSSV, Kepercayaan: 82.8%
+Objek: WSSV, Kepercayaan: 64.4%
+

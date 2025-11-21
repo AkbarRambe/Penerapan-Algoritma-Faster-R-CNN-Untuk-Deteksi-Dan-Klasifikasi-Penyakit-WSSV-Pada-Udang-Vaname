@@ -1,0 +1,27 @@
+--- Hasil untuk: healthy-53_jpg.rf.01ed1fee612a112a722adbde96c50b18.jpg ---
+Objek: HEALTHY, Kepercayaan: 99.0%
+Objek: HEALTHY, Kepercayaan: 90.9%
+Objek: HEALTHY, Kepercayaan: 90.9%
+Objek: HEALTHY, Kepercayaan: 89.4%
+Objek: HEALTHY, Kepercayaan: 81.9%
+
+--- Hasil untuk: healthy-54_jpg.rf.b7ca2abd45ac286911f5f5d39bd64170.jpg ---
+Objek: HEALTHY, Kepercayaan: 99.0%
+Objek: HEALTHY, Kepercayaan: 98.7%
+Objek: HEALTHY, Kepercayaan: 98.6%
+Objek: HEALTHY, Kepercayaan: 85.1%
+
+--- Hasil untuk: healthy-55_jpg.rf.b41f9ea2d0d2698f6389e77fb2c02fa1.jpg ---
+Objek: HEALTHY, Kepercayaan: 92.4%
+Objek: HEALTHY, Kepercayaan: 88.7%
+Objek: HEALTHY, Kepercayaan: 76.4%
+Objek: HEALTHY, Kepercayaan: 75.8%
+Objek: HEALTHY, Kepercayaan: 66.0%
+
+--- Hasil untuk: healthy-56_jpg.rf.240dee818e4044a472f22dc4e4aeb0e6.jpg ---
+Objek: HEALTHY, Kepercayaan: 85.8%
+Objek: HEALTHY, Kepercayaan: 84.0%
+Objek: HEALTHY, Kepercayaan: 83.2%
+Objek: HEALTHY, Kepercayaan: 76.3%
+Objek: HEALTHY, Kepercayaan: 57.2%
+

@@ -1,0 +1,6 @@
+--- Hasil untuk: download-12-_jpg.rf.d1192aacc59feb8219f525aff249249b.jpg ---
+Objek: WSSV, Kepercayaan: 99.4%
+Objek: WSSV, Kepercayaan: 95.8%
+Objek: WSSV, Kepercayaan: 94.8%
+Objek: WSSV, Kepercayaan: 64.6%
+

@@ -1,0 +1,5 @@
+--- Hasil untuk: download-5-_jpg.rf.097918aabbde45831a6aa35cab8eb806.jpg ---
+Objek: WSSV, Kepercayaan: 99.6%
+Objek: WSSV, Kepercayaan: 98.9%
+Objek: WSSV, Kepercayaan: 60.0%
+

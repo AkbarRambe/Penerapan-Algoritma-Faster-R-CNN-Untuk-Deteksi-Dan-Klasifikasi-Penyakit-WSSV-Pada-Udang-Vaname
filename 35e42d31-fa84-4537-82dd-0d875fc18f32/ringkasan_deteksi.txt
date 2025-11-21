@@ -1,0 +1,13 @@
+--- Hasil untuk: harga-udang-vaname.jpg ---
+Objek: HEALTHY, Kepercayaan: 90.7%
+Objek: HEALTHY, Kepercayaan: 79.3%
+Objek: HEALTHY, Kepercayaan: 75.9%
+Objek: HEALTHY, Kepercayaan: 69.1%
+Objek: HEALTHY, Kepercayaan: 63.7%
+
+--- Hasil untuk: healthy-61_jpg.rf.ce80f52454ca24f6661fc744ca41958e.jpg ---
+Objek: HEALTHY, Kepercayaan: 97.6%
+Objek: HEALTHY, Kepercayaan: 92.6%
+Objek: HEALTHY, Kepercayaan: 66.1%
+Objek: HEALTHY, Kepercayaan: 55.7%
+
